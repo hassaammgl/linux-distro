@@ -1,0 +1,12 @@
+{
+  "name": "rat-nodeqt",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "qode main.js"
+  },
+  "dependencies": {
+    "@nodegui/nodegui": "^0.67.0"
+  }
+}

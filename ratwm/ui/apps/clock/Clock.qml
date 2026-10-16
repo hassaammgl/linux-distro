@@ -3,8 +3,9 @@ import QtQuick.Window
 
 Window {
     visible: true
-    width: 420; height: 240
-    title: "rat-client"
+    width: 420
+    height: 240
+    title: "Clock"
     color: "#313244"
 
     Text {

@@ -16,8 +16,8 @@ WaylandCompositor {
             id: win
             visible: true
             color: "#1e1e2e"
-            width: 1280
-            height: 720
+            width: 1024
+            height: 576
 
             // All client windows live here
             Repeater {
